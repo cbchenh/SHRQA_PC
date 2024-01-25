@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Haar 2d wavelet                                                         %
 %                                                                         %
-% Pre-run the code:                                                       %
+% Before running the code:                                                %
 % - set the working directory to the image folder                         %
 %       [\your directory\all]                                             %
 % - create 4 output folders to get wavelet results                        %
